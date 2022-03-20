@@ -1,0 +1,11 @@
+D:\Luis\netcore\WebApplication1\WebApplication1\obj\Release\net5.0\linux-x64\PubTmp\Out\WebApplication1
+D:\Luis\netcore\WebApplication1\WebApplication1\obj\Release\net5.0\linux-x64\PubTmp\Out\appsettings.Development.json
+D:\Luis\netcore\WebApplication1\WebApplication1\obj\Release\net5.0\linux-x64\PubTmp\Out\appsettings.json
+D:\Luis\netcore\WebApplication1\WebApplication1\obj\Release\net5.0\linux-x64\PubTmp\Out\WebApplication1.dll
+D:\Luis\netcore\WebApplication1\WebApplication1\obj\Release\net5.0\linux-x64\PubTmp\Out\WebApplication1.deps.json
+D:\Luis\netcore\WebApplication1\WebApplication1\obj\Release\net5.0\linux-x64\PubTmp\Out\WebApplication1.runtimeconfig.json
+D:\Luis\netcore\WebApplication1\WebApplication1\obj\Release\net5.0\linux-x64\PubTmp\Out\WebApplication1.pdb
+D:\Luis\netcore\WebApplication1\WebApplication1\obj\Release\net5.0\linux-x64\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Luis\netcore\WebApplication1\WebApplication1\obj\Release\net5.0\linux-x64\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Luis\netcore\WebApplication1\WebApplication1\obj\Release\net5.0\linux-x64\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Luis\netcore\WebApplication1\WebApplication1\obj\Release\net5.0\linux-x64\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
